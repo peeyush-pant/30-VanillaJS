@@ -5,5 +5,8 @@
     - <a href="https://peeyush-pant.github.io/JS-Drum-Kit/" target="_blank">Demo</a>
 
 2. JS clock
-    - Demo
+    - <a href="https://peeyush-pant.github.io/Clock/" target="_blank">Demo</a>
+
+3. CSS-Var
+    - <a href="https://peeyush-pant.github.io/CSS-Var/" target="_blank">Demo</a>
 
