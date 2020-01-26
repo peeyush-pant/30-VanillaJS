@@ -1,3 +1,9 @@
 [submodule "JS-Drum-Kit"]
 	path = JS-Drum-Kit
 	url = https://github.com/peeyush-pant/JS-Drum-Kit
+[submodule "CSS-Var"]
+	path = CSS-Var
+	url = https://github.com/peeyush-pant/CSS-Var.git
+[submodule "Clock"]
+	path = Clock
+	url = https://github.com/peeyush-pant/Clock.git
